@@ -1,4 +1,3 @@
-# JEWELLERY_STORE_FULLSTACK
-
-
-## JEWELLERY STORE FRONT END : https://github.com/rutujapatil024/Jewellery_Store
+## JEWELLERY STORE FRONT END : [Front End](https://github.com/rutujapatil024/JEWELLERY_STORE_FRONTEND)
+## JEWELLERY STORE BACK END  :
+## JEWELLERY STORE ADMIN :
